@@ -5,7 +5,7 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend:{
+    extend: {
       colors:{
         "cinza-100": "#f2f2f2",
         "cinza-200": "#d9d9d9",
@@ -23,7 +23,7 @@ export default {
   
         "danger": "#e25858",
       }
-    }
+    },
   },
   plugins: [],
 }
