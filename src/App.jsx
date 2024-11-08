@@ -1,6 +1,6 @@
 import { Check, Trash } from "@phosphor-icons/react"
-
-
+import { useContext } from "react";
+import { TemaContext } from "../context/contadorTarefasCriadas";
 
 function App() {
   
